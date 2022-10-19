@@ -1,0 +1,146 @@
+\_GET:
+Array
+(
+)
+
+
+POST:
+Array
+(
+    [payment_id] => c93876272f9f4e6
+    [shop] => 2311
+    [amount] => 10.7
+    [profit] => 10
+    [desc] => buy premium on bloodgodz.com
+    [currency] => RUB
+    [currency_amount] => 10.70
+    [sign] => b2a825a7b13200266b9d7f8db10a35be
+    [email] => mrnik.tk@gmail.com
+    [date] => 2022-08-24 00:40:02
+    [method] => Yoomoney
+    [custom] => Array
+        (
+            [user] => 1
+        )
+
+)
+
+
+Server:
+Array
+(
+    [HTTPS] => on
+    [HTTP_HOST] => bloodgodz.com
+    [HTTP_X_FORWARDED_FOR] => 2a02:4780:8:a::b
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_CONNECTION] => close
+    [CONTENT_LENGTH] => 256
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [HTTP_CF_RAY] => 73f7049a0eaeb90e-AMS
+    [HTTP_CF_VISITOR] => {"scheme":"https"}
+    [HTTP_USER_AGENT] => Payok-User-Agent
+    [HTTP_ACCEPT] => application/json
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_CF_CONNECTING_IP] => 2a02:4780:8:a::b
+    [HTTP_CF_IPCOUNTRY] => CY
+    [HTTP_CDN_LOOP] => cloudflare
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.41 (Ubuntu) Server at bloodgodz.com Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.41 (Ubuntu)
+    [SERVER_NAME] => bloodgodz.com
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 172.71.102.117
+    [DOCUMENT_ROOT] => /var/www/www-root/data/www/bloodgodz.com
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/www-root/data/www/bloodgodz.com
+    [SERVER_ADMIN] => webmaster@bloodgodz.com
+    [SCRIPT_FILENAME] => /var/www/www-root/data/www/bloodgodz.com/api/payments/payok.php
+    [REMOTE_PORT] => 35182
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.0
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /api/payments/payok.php
+    [SCRIPT_NAME] => /api/payments/payok.php
+    [PHP_SELF] => /api/payments/payok.php
+    [REQUEST_TIME_FLOAT] => 1661290945.64
+    [REQUEST_TIME] => 1661290945
+)
+
+\_GET:
+Array
+(
+)
+
+
+POST:
+Array
+(
+    [payment_id] => 1aec0c911155811
+    [shop] => 2311
+    [amount] => 10.7
+    [profit] => 10
+    [desc] => buy premium on bloodgodz.com
+    [currency] => RUB
+    [currency_amount] => 10.70
+    [sign] => aa65ed8b5ac9e5aa8630d63e7634c86a
+    [email] => mrnik.tk@gmail.com
+    [date] => 2022-08-23 22:51:16
+    [method] => Yoomoney
+    [custom] => Array
+        (
+            [user] => 1
+        )
+
+)
+
+
+Server:
+Array
+(
+    [HTTPS] => on
+    [HTTP_HOST] => bloodgodz.com
+    [HTTP_X_FORWARDED_FOR] => 2a02:4780:8:a::b
+    [HTTP_X_FORWARDED_PROTO] => https
+    [HTTP_X_FORWARDED_PORT] => 443
+    [HTTP_CONNECTION] => close
+    [CONTENT_LENGTH] => 256
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [HTTP_CF_RAY] => 73f709270dc4b878-AMS
+    [HTTP_CF_VISITOR] => {"scheme":"https"}
+    [HTTP_USER_AGENT] => Payok-User-Agent
+    [HTTP_ACCEPT] => application/json
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_CF_CONNECTING_IP] => 2a02:4780:8:a::b
+    [HTTP_CF_IPCOUNTRY] => CY
+    [HTTP_CDN_LOOP] => cloudflare
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.41 (Ubuntu) Server at bloodgodz.com Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.41 (Ubuntu)
+    [SERVER_NAME] => bloodgodz.com
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 172.71.98.191
+    [DOCUMENT_ROOT] => /var/www/www-root/data/www/bloodgodz.com
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/www-root/data/www/bloodgodz.com
+    [SERVER_ADMIN] => webmaster@bloodgodz.com
+    [SCRIPT_FILENAME] => /var/www/www-root/data/www/bloodgodz.com/api/payments/payok.php
+    [REMOTE_PORT] => 36028
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.0
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /api/payments/payok.php
+    [SCRIPT_NAME] => /api/payments/payok.php
+    [PHP_SELF] => /api/payments/payok.php
+    [REQUEST_TIME_FLOAT] => 1661291132.039
+    [REQUEST_TIME] => 1661291132
+)
+
